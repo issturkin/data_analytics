@@ -1,4 +1,6 @@
 /*
+Курс: Karpov.Courses — Аналитика данных
+https://karpov.courses/analytics
 Задача:
 Подготовить отчёт по всем товарам.
 
