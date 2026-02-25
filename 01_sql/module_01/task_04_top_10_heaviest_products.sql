@@ -1,4 +1,6 @@
 /*
+Курс: Karpov.Courses — Аналитика данных
+https://karpov.courses/analytics
 Задача:
 Найти топ-10 самых тяжёлых продуктов по полю product_weight_g.
 Вывести:
