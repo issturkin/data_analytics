@@ -27,6 +27,7 @@ The repository includes SQL queries, Python data analysis, probability theory, s
 - Statistics & A/B testing
 - Airflow
 - Git
+
 https://karpov.courses/analytics
 
 _____________________________________
@@ -59,4 +60,5 @@ _____________________________________
 - Статистика и A/B тесты
 - Airflow
 - Git
+
 https://karpov.courses/analytics
