@@ -1,5 +1,7 @@
-Тема:
-CASE WHEN + COALESCE + фильтрация по диапазону дат
+/*
+Курс: Karpov.Courses — Аналитика данных
+https://karpov.courses/analytics
+Тема: CASE WHEN + COALESCE + фильтрация по диапазону дат
 
 Метод:
 1. Классификация статуса через CASE
