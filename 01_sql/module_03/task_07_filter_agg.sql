@@ -18,3 +18,5 @@ FROM
   orders
 GROUP BY
   1
+
+  
