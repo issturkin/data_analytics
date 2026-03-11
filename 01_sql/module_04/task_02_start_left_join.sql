@@ -15,3 +15,5 @@ FROM
   LEFT JOIN orders AS ord ON cust.customer_id = ord.customer_id
 ORDER BY
   customer_id
+
+  

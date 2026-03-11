@@ -17,3 +17,4 @@ FROM
   RIGHT JOIN customers c ON c.customer_id = v.customer_id
 ORDER BY
   order_id
+
