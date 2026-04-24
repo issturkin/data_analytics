@@ -1,4 +1,4 @@
-order_id,product_id,quantity,name,date,client_id,status
+order_id,product_id,quantity,manager_name,order_date,client_id,status
 ABID-18767701,72,30,Маргарита Камертонова,2024-03-11,44,confirmed
 ABID-18767701,509,40,Маргарита Камертонова,2024-03-11,44,confirmed
 ABID-18767701,555,26,Маргарита Камертонова,2024-03-11,44,confirmed
